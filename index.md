@@ -38,8 +38,8 @@ Designing projects, supervising students, and leadership have consistently been 
   
 #### Services to the community
  
- - During my PhD, I co-reviewed various papers for top-tier conferences in the field, including **ICSE**, **FSE**, and **ASE**.
- - In 2020, I was part of the **ICSE** virtualization team, where we live-streamed the conference and assisted the organizers in successfully transitioning the conference to an online format for the first time during COVID-19.
+ - During my PhD, I co-reviewed papers for top-tier conferences in the field, including **ICSE**, **FSE**, and **ASE**.
+ - In 2020, I was part of the **ICSE** virtualization team, where we live-streamed the conference and assisted the organizers in successfully transitioning the conference to an online format for the first time during COVID.
  - In **MSR** 2023, I served as a session chair.
 
 ### Education
