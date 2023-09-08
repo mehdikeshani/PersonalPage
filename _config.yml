@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-# title : 
+title : nil
 author :
   name : Mehdi Keshani
   email : m.keshani@tudelft.nl
