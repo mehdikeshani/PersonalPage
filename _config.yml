@@ -8,14 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Mystery creates wonder and wonder is the basis of man's desire to understand. - Neil Armstrong
+# title : 
 author :
   name : Mehdi Keshani
   email : m.keshani@tudelft.nl
   github : ashkboos
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://kbroman.github.io/simple_site
+production_url : https://ashkboos.github.io/MyWebsite/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -50,7 +50,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://kbroman.org/simple_site
+  BASE_PATH : https://ashkboos.github.io/MyWebsite/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
