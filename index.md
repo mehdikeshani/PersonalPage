@@ -33,14 +33,14 @@ In my opinion, the open-source initiative is one of the most fundamental concept
 #### Supervision
 Designing projects, supervising students, and leadership have consistently been among the most fulfilling aspects of my academic journey.
  - During my master's studies, I supervised **two** students, resulting in one published paper in a top-tier journal and one bachelor's thesis.
- - Throughout my PhD, I voluntarily designed projects and offered them to students. This provided me with the opportunity to supervise **12** bachelor's theses, with 6 of them receiving excellent grades from evaluation committees. These projects ultimately led to **three** top-level technical papers.
+ - Throughout my PhD, I voluntarily designed projects and offered them to students. This provided me with the opportunity to supervise **twelve** bachelor's theses, with **six** of them receiving excellent grades from evaluation committees. These projects ultimately led to **three** top-level technical papers.
  - Within the Fasten project, I collaboratively mentored **five** students, resulting in the creation of various artifacts, including open-source tools and project deliverables.
   
 #### Services to the community
  
  - In **MSR** 2023, I served as a session chair.
  - During my PhD, I co-reviewed papers for top-tier conferences in the field, including **ICSE**, **FSE**, and **ASE**.
- - In 2020, I was part of the **ICSE** virtualization team, where we live-streamed the conference and assisted the organizers in successfully transitioning the conference to an online format for the first time during Covid19.
+ - In 2020, I was part of the **ICSE** virtualization team, where we live-streamed the conference and assisted the organizers in successfully transitioning the conference to an online format for the first time during COVID-19.
 
 ### Education
 - **2019 - current:** Delft University of Technology, PhD, Software Engineering 
