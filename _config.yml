@@ -8,12 +8,11 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Mystery creates wonder and wonder is the basis of man's desire to understand. - Neil Armstrong
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  feedburner : nil
+  name : Mehdi Keshani
+  email : m.keshani@tudelft.nl
+  github : ashkboos
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://kbroman.github.io/simple_site
