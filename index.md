@@ -3,6 +3,14 @@ layout: page
 description: Mehdi Keshani is a Researcher in Computer Science
 keywords: Keshani, Software Engineering, AI, Software Supply Chains, AI Agents, Dependency Management, Maven
 ---
+<ul class="tabs">
+  <li><a href="#projects">Projects</a></li>
+</ul>
+
+<div id="projects">
+  <h2>Projects</h2>
+  <p>Details…</p>
+</div>
 
 <img src="https://avatars.githubusercontent.com/u/24504585?v=4" alt="profile"
      style="width:19%; float:left; margin-right:10px;">
