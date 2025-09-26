@@ -2,7 +2,7 @@
 layout: page
 description: Mehdi Keshani's personal website
 ---
-<p align="center">
+<p>
   <img src="https://avatars.githubusercontent.com/u/24504585?v=4" alt="profile" style="width: 19%;">
 </p>
 
