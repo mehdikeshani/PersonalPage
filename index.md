@@ -16,14 +16,13 @@ I’m equally passionate about teaching and mentorship. Over the years, I’ve t
 Beyond research and teaching, I actively contribute to the international software engineering community through service, reviewing, and open-source initiatives. My long-term vision is to make software engineering practices more secure, reliable, and accessible.
 
 ### Interests
-In general, I truly enjoy working with data to discover new things, creating tools, heuristics, and ML-based approaches to enable new functionalities, and automating processes to simplify various tasks. This interest has manifested itself in the following research areas so far:
-
-- Software ecosystems
-- Software supply chain
-- Evolution of systems
+- Software Engineering & AI – Exploring how large language models and AI agents can support or even participate in software development, from traceability to design sessions.
+- Software Supply Chains – Enhancing the quality, security, and reliability of modern ecosystems through dependency analysis, reproducibility, and open-source tooling.
+- Open Science & Reproducibility – Advocating for open-source tools and reproducible builds to make research and software practices more transparent and accessible worldwide.
+- Teaching & Mentorship – Designing interactive learning environments and guiding students through impactful research projects that connect theory with real-world practice.
 
 ### Publications
-- Frankenstein: Fast and Lightweight Call Graph Generation for Software Builds. **M. Keshani**, G. Gousios, S. Proksch. Empirical Software Engineering (**EMSE**). 2023.
+- [Frankenstein: Fast and Lightweight Call Graph Generation for Software Builds](https://link.springer.com/article/10.1007/s10664-023-10388-7). **M. Keshani**, G. Gousios, S. Proksch. Empirical Software Engineering (**EMSE**). 2024.
 - [On the relation of method popularity to breaking changes in the Maven ecosystem](https://doi.org/10.1016/j.jss.2023.111738). **M. Keshani**, S. Vos, S. Proksch. Journal of Systems and Software (**JSS**). 2023.
 - [On the Effect of Transitivity and Granularity on Vulnerability Propagation in the Maven Ecosystem](https://doi.org/10.1109/SANER56733.2023.00028). A.M. Mir, **M. Keshani**, S. Proksch. IEEE International Conference on Software Analysis, Evolution and Reengineering (**SANER**). 2023.
 - [Scalable Call Graph Constructor for Maven](https://doi.org/10.1109/ICSE-Companion52605.2021.00046). **M. Keshani**. IEEE/ACM 43rd International Conference on Software Engineering: Companion Proceedings (**ICSE-Companion**). 2021.
