@@ -67,13 +67,21 @@ In my opinion, the open-source initiative is one of the most fundamental concept
   - Fasten was an [open-source project](https://github.com/fasten-project) funded by the European Union, involving over 40 people from both industry and academia. During this project, I had the opportunity to collaborate with individuals from across Europe with diverse backgrounds, varying levels of experience, and different levels of seniority. As our team at TUD led the project and my research played a core role in it, I had the chance to sharpen various valuable skills. In addition to the engineering experiences gained from working on such a large-scale project, it gave me the opportunity to engage in crucial aspects such as making significant design decisions, participating in project management and planning, as well as contributing to the writing and reviewing of project deliverables.
   - I have open-sourced all the studies I have conducted during my PhD and encouraged the students I supervised to do the same. During the Student Research Projects I supervised, we made contributions to numerous open-source projects through pull requests that were accepted by the main developers.
 
-
   
 ### Services to the community
- 
- - During my PhD, I co-reviewed papers for top-tier conferences in the field, including **ICSE**, **FSE**, and **ASE**.
- - In 2020, I was part of the **ICSE** virtualization team, where we live-streamed the conference and assisted the organizers in successfully transitioning the conference to an online format for the first time during COVID.
- - In **MSR** 2023, I served as a session chair.
+•	International
+     - Proceedings Chair, AgenticSE 2026, co-located with ASE
+     - Program Committee, SANER 2026 Demo Track
+     - Member, International Reproducible Builds Community
+     - Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE),                 Empirical Software Engineering (EMSE), international journal of information security (JIS), IEEE Transactions on Reliability
+     - Co-reviewer, International Conference on Software Engineering (ICSE), Foundations of Software Engineering (FSE), and Automated               Software Engineering (ASE)
+     - PC member, NLP-based Software Engineering (NLBSE-2024) workshop
+     - Organizer/session chair, ICSE virtualization team (2022), Mining Software Repositories conference (2023)
+•	University
+     - Member, Undergraduate Committee, Computer Science Department, BGSU (2024–2025)
+          - Actively participated in meetings and decision-making processes
+          - Developed multiple course maps, including Computer Science and Cybersecurity tracks at BGSU
+          - Contributed to curriculum revisions, including changes to the Techniques of Simulation course
 
 
 ### Education
