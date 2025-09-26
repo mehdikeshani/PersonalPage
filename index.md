@@ -37,11 +37,11 @@ Beyond research and teaching, I actively contribute to the international softwar
 
 ### Experiences
 
-#### Assistant Professor, Bowling Green State University (BGSU)
-I teach courses, conduct research, submit grant proposals, supervise students and research projects, and contribute service to the academic and open-source community. 
+#### Assistant Professor
+At Bowling Green State University (BGSU), I teach courses, conduct research, submit grant proposals, supervise students and research projects, and contribute service to the academic and open-source community. 
 
-#### Research Engineer, Research Engineering and Infrastructure Team (REIT), TU Delft, The Netherlands
-I supported researchers in building infrastructures for their research projects. During this time, I designed, implemented, tested, and presented an AI agent for creative brainstorming sessions. I also assisted in the development of a human-AI coupled system for collaborative microsurgeries and presented it to members of the Dutch Parliament.
+#### Research Engineer, 
+At the Research Engineering and Infrastructure Team (REIT) in TU Delft, I supported researchers in building infrastructures for their research projects. During this time, I designed, implemented, tested, and presented an AI agent for creative brainstorming sessions. I also assisted in the development of a human-AI coupled system for collaborative microsurgeries and presented it to members of the Dutch Parliament.
 
 #### PhD
 During my PhD at [Delft University of Technology](https://www.tudelft.nl/en/), I was a member of the [Software Engineering Research Group](https://se.ewi.tudelft.nl/). My academic journey started in 2019 under the guidance of Dr. [Georgios Gousios](https://gousios.org/), and I became deeply engaged in the field of Software Engineering. During the first three and a half years of my PhD, I was heavily involved in the [Fasten project](https://www.fasten-project.eu/), aimed at transforming the way dependency analyses are conducted by enhancing their precision through the use of call graphs.
