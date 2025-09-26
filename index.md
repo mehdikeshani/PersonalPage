@@ -1,10 +1,20 @@
 ---
-layout: page
-description: Mehdi Keshani's personal website
+layout: frontpage
+title: Mehdi Keshani
+description: Mehdi Keshani is a Researcher in Computer Science
+keywords: Keshani, Software Engineering, AI, Software Supply Chains, AI Agents, Dependency Management, Maven
 ---
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+      </ul>
+  </div>
+</div>
+
 <p>
   <img src="https://avatars.githubusercontent.com/u/24504585?v=4" alt="profile" style="width: 19%;">
 </p>
+
 
 I'm Mehdi, a PhD candidate currently in the final stretch of my doctoral journey at [Delft University of Technology](https://www.tudelft.nl/en/), where I am a member of the [Software Engineering Research Group](https://se.ewi.tudelft.nl/). My academic journey started in 2019 under the guidance of Dr. [Georgios Gousios](https://gousios.org/), and since then, I've been deeply engaged in the field of Software Engineering. During the first three and a half years of my PhD, I was heavily involved in the [Fasten project](https://www.fasten-project.eu/), a significant endeavor aimed at transforming the way dependency analyses are conducted by enhancing their precision through the use of call graphs.
 
