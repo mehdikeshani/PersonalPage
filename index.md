@@ -54,11 +54,12 @@ In 2021, when my initial supervisor transitioned to the industry, I had the chan
 - [Cross-project code clones in GitHub](https://link.springer.com/article/10.1007/s10664-018-9648-z). M. Gharehyazie, B. Ray, **M. Keshani**, M.S. Zavosht, A. Heydarnoori, V. Filkov. Empirical Software Engineering (**EMSE**). 2019.
 
 ### Supervision
+
 #### 2023
 - Niels Tomassen: [*Uncovering the Secrets of the Maven Repository: Analysis of Library Sizes in Maven Central*](https://resolver.tudelft.nl/uuid:19f060da-211d-41fb-91c0-69a5b9e8f706) (Bachelor thesis)  
 - Priyam Rungta: [*Uncovering Secrets of the Maven Repository: Maven packaging*](https://resolver.tudelft.nl/uuid:b945ed27-1ad2-4815-aac1-ee5276977192) (Bachelor thesis)  
 - Tudor-Gabriel Velican: [*Investigating the State of Source Code Repositories in Maven Central*](https://resolver.tudelft.nl/uuid:038ba3fe-f235-467e-9d14-251e7c57d068) (Bachelor thesis)  
-- Gideon Bot: [*Uncovering secrets of the Maven Repository: Java Build Aspects*](https://resolver.tudelft.nl/uuid:0a2f8d1b-f0a3-457d-a84a-bee43efd9cbe) (Bachelor thesis)  
+- Gideon Bot: [*Uncovering secrets of the Maven Repository: Java Build Aspects*](https://resolver.tudelft.nl/uuid:0a2f8d1b-f0a3-457d-a84a-bee43efd9cbe) (Bachelor thesis)
 #### 2022
 - Horia Zaharia: [*An exploratory study about extent of use of released packages in the Maven Central Repository*](https://resolver.tudelft.nl/uuid:41d7e05b-8c68-400b-96cd-6261fbbe6e1e) (Bachelor thesis)  
 - Simcha Vos: [*API evolution on Maven Central: do developers adhere to semantic versioning?*](https://resolver.tudelft.nl/uuid:dd813e67-8501-47e1-9774-a5a32c054e63) (Bachelor thesis)  
@@ -89,19 +90,20 @@ In my opinion, the open-source initiative is one of the most fundamental concept
 
   
 ### Services to the community
-•	International
-     - Proceedings Chair, AgenticSE 2026, co-located with ASE
-     - Program Committee, SANER 2026 Demo Track
-     - Member, International Reproducible Builds Community
-     - Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE),                 Empirical Software Engineering (EMSE), international journal of information security (JIS), IEEE Transactions on Reliability
-     - Co-reviewer, International Conference on Software Engineering (ICSE), Foundations of Software Engineering (FSE), and Automated               Software Engineering (ASE)
-     - PC member, NLP-based Software Engineering (NLBSE-2024) workshop
-     - Organizer/session chair, ICSE virtualization team (2022), Mining Software Repositories conference (2023)
-•	University
-     - Member, Undergraduate Committee, Computer Science Department, BGSU (2024–2025)
-          - Actively participated in meetings and decision-making processes
-          - Developed multiple course maps, including Computer Science and Cybersecurity tracks at BGSU
-          - Contributed to curriculum revisions, including changes to the Techniques of Simulation course
+#### International
+- Proceedings Chair, AgenticSE 2026, co-located with ASE
+- Program Committee, SANER 2026 Demo Track
+- Member, International Reproducible Builds Community
+- Reviewer, ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE), international journal of information security (JIS), IEEE Transactions on Reliability
+- Co-reviewer, International Conference on Software Engineering (ICSE), Foundations of Software Engineering (FSE), and Automated Software Engineering (ASE)
+- PC member, NLP-based Software Engineering (NLBSE-2024) workshop
+- Organizer/session chair, ICSE virtualization team (2022), Mining Software Repositories conference (2023)
+  
+#### University
+- Member, Undergraduate Committee, Computer Science Department, BGSU (2024–2025)
+     - Actively participated in meetings and decision-making processes
+     - Developed multiple course maps, including Computer Science and Cybersecurity tracks at BGSU
+     - Contributed to curriculum revisions, including changes to the Techniques of Simulation course
 
 
 
