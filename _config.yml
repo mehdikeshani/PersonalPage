@@ -12,7 +12,7 @@ title : Mehdi Keshani
 author :
   name : Mehdi Keshani
   email : m.keshani@tudelft.nl
-  github : ashkboos
+  github : mehdikeshani
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://mehdikeshani.github.io/MyWebsite/
@@ -50,7 +50,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://ashkboos.github.io/MyWebsite/
+  BASE_PATH : https://mehdikeshani.github.io/PersonalPage/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
