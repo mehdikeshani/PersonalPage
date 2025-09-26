@@ -16,12 +16,19 @@ I’m equally passionate about teaching and mentorship. Over the years, I’ve t
 Beyond research and teaching, I actively contribute to the international software engineering community through service, reviewing, and open-source initiatives. My long-term vision is to make software engineering practices more secure, reliable, and accessible.
 
 ### Interests
-- Software Engineering & AI – Exploring how large language models and AI agents can support or even participate in software development, from traceability to design sessions.
-- Software Supply Chains – Enhancing the quality, security, and reliability of modern ecosystems through dependency analysis, reproducibility, and open-source tooling.
-- Open Science & Reproducibility – Advocating for open-source tools and reproducible builds to make research and software practices more transparent and accessible worldwide.
-- Teaching & Mentorship – Designing interactive learning environments and guiding students through impactful research projects that connect theory with real-world practice.
+- **Software Engineering & AI** – Exploring how large language models and AI agents can support or even participate in software development, from traceability to design sessions.
+- **Software Supply Chains** – Enhancing the quality, security, and reliability of modern software ecosystems through dependency analysis, reproducibility, and open-source tooling.
+- **Open Science & Reproducibility** – Advocating for open-source tools and reproducible builds to make research and software practices more transparent and accessible worldwide.
+- **Teaching & Mentorship** – Designing interactive learning environments and guiding students through impactful research projects that connect theory with real-world practice.
 
 ### Publications
+- [LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery](https://arxiv.org/abs/2508.12232). A. Akhavan, A. Hosseinpour, M. H. Aref, A. Heydarnoori, **M. Keshani**, Under review. 2025.
+- Impact of LLM-generated Code on the Maven Ecosystem. R. Koohestani, M. Izadi, **M. Keshani**. Work in progress.
+- [OriginPruner: Leveraging Method Origins for Guided Call Graph Pruning](https://arxiv.org/abs/2412.09110). A. M. Mir, **M. Keshani**, S. Proksch, Revising.
+- [Enhancing the Security of Software Supply Chains: Methods and Practices](https://repository.tudelft.nl/record/uuid:e0c6d9a9-9249-4890-8f48-374bd5f49b5d). **M. Keshani**. PhD Thesis at Delft University of Technology (**TUD**). 2024.
+- [Maven Unzipped: Exploring the Impact of Library Packaging on the Ecosystem](https://ieeexplore.ieee.org/abstract/document/10795007). **M. Keshani**, G. Bot, P. Rungta, M. Izadi, A. Van Deursen, S. Proksch. International Conference on Software Maintenance and Evolution (**ICSME**). 2024.
+- [AROMA: Automatic Reproduction of Maven Artifacts](https://dl.acm.org/doi/abs/10.1145/3643764). **M. Keshani**, T. Velican, G. Bot, S. Proksch, Foundations of Software Engineering (**FSE**). 2024.
+- [On the Effectiveness of Machine Learning-based Call-Graph Pruning: An Empirical Study](https://dl.acm.org/doi/abs/10.1145/3643991.3644897). A. M. Mir, **M. Keshani**, S. Proksch. Mining Software Repositories (**MSR**). 2024.
 - [Frankenstein: Fast and Lightweight Call Graph Generation for Software Builds](https://link.springer.com/article/10.1007/s10664-023-10388-7). **M. Keshani**, G. Gousios, S. Proksch. Empirical Software Engineering (**EMSE**). 2024.
 - [On the relation of method popularity to breaking changes in the Maven ecosystem](https://doi.org/10.1016/j.jss.2023.111738). **M. Keshani**, S. Vos, S. Proksch. Journal of Systems and Software (**JSS**). 2023.
 - [On the Effect of Transitivity and Granularity on Vulnerability Propagation in the Maven Ecosystem](https://doi.org/10.1109/SANER56733.2023.00028). A.M. Mir, **M. Keshani**, S. Proksch. IEEE International Conference on Software Analysis, Evolution and Reengineering (**SANER**). 2023.
