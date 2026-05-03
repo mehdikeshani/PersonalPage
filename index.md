@@ -7,7 +7,7 @@ keywords: Keshani, Software Engineering, AI, Software Supply Chains, AI Agents, 
 <img src="https://avatars.githubusercontent.com/u/24504585?v=4" alt="profile"
      style="width:19%; float:left; margin-right:10px;">
 
-Hi, I’m Mehdi Keshani, an Assistant Professor of Computer Science at Bowling Green State University and a researcher passionate about the intersection of software engineering, AI, and software ecosystems.
+Hi, I’m Mehdi Keshani, a Senior Researcher at the University of Zurich and passionate about the intersection of software engineering, AI, and software ecosystems.
 
 My work focuses on improving the security, quality, and reliability of software and software supply chains. I build tools such as AI-powered tools and agents that support developers in their daily work. I’ve developed open-source systems like [Frankenstein](https://link.springer.com/article/10.1007/s10664-023-10388-7) for call graph analysis and [LinkAnchor](https://arxiv.org/abs/2508.12232), an LLM-based agent for software traceability, both of which bridge cutting-edge research with real-world impact.
 
