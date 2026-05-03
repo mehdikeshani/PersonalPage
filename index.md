@@ -22,8 +22,11 @@ Beyond research and teaching, I actively contribute to the international softwar
 - **Teaching & Mentorship** – Designing interactive learning environments and guiding students through impactful research projects that connect theory with real-world practice.
 
 ### Experiences
+#### Senior Researcher
+At the University of Zurich, I supervise master’s and PhD students, teach courses, and engage with the scientific community.
+
 #### Assistant Professor
-At Bowling Green State University (BGSU), I teach courses, conduct research, submit grant proposals, supervise students and research projects, and contribute service to the academic and open-source community. 
+At Bowling Green State University (BGSU), I taught courses, conducted research, submitted grant proposals, supervised students and research projects, and contributed service to the academic and open-source community. 
 
 #### Research Engineer 
 At the Research Engineering and Infrastructure Team (REIT) in TU Delft, I supported researchers in building infrastructures for their research projects. During this time, I designed, implemented, tested, and presented an AI agent for creative brainstorming sessions. I also assisted in the development of a human-AI coupled system for collaborative microsurgeries and presented it to members of the Dutch Parliament.
